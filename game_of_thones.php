@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width:device-width">
         <title></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="estilo.css">
-        
+
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
         <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
         <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
         <script type='text/javascript' src='js/menu_jquery.js'></script>
 
-        
         <script type="text/javascript"> 
         var texto = "Faça sua busca";
         
@@ -29,19 +29,18 @@
         }
         </script>
         
-        
-        
-        
         <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
         <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
         
+        
 
 
-    </head>
-    <body onload="preenche();">
+        </head>
+        <body onload="preenche();">
 
-
-      <div id="fundo_pesquisa">
+            
+            
+            <div id="fundo_pesquisa">
             
             <div id="buscar">
             <form method="get" action="" >
@@ -121,40 +120,53 @@
     </div>
         
         </div>
-	
-	
+
+
         
-       
         
+	
         <div id="conteudo"> 
           
             <div id="fundoverde">
                 <div id="barra">
-                    Terror
+                Novidades
                 </div>
-                
                 
                 
                 
               
-	
                 <div class="fundorosa">
-                    <div class="imagem1"> <a href="the_walking_dead.php"> <img src="img/145488.jpg"/>      <h4>The Walking Dead </h4>  </a><p>Uma série crida por Frank Darabont, uma série pós-apocalíptica ...</p><a href="the_walking_dead.php"> <h5> Saiba +</h5> </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/ad120x120.jpg"/>   </a> <br /> exemplo de teste2 mais texto aqui apenas... <a href="contfilme.php"> Saiba + </a></div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 3...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/145488.jpg"/>      </a> <br /> exemplo de teste 4...<a href="contserie.php"> Saiba + </a></div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/ad120x120.jpg"/>   </a> <br /> exemplo de teste 5...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a></div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a> </div>
+                    <div class="imagem_grande"> <a href=""> <img src="img/a_culpa_grande.jpg"/>  </a>
+                    
+        </div>
+                    
+        <div id="texto_grande">
+         <h3> Game of thones  </h3><br/><br/>
+         <p> Uma série criada por David Benioff e D. B. Weiss, esta série foi baseada em uma saga de livros chamada A Song 
+             of Ice and Fire, a série conta a história de sete reinos que são governados pelo rei do trono de ferro em westeros,
+             e casas lannister, baratheon, targaryen e stark lutam incessantemente pelo poder deste reino.</p>
+         
+            <p>Pode ser considerada uma obra de arte?</p>
+            <p> Esta série consegue prender o espectador de uma forma fascinante, é composta por muitos efeitos especiais 
+                espetaculares tais como os dragões da família targaryen ou até mesmo o trino de ferro feito por mais de mil espadas 
+                derretidas por fogo de dragão, e sem contar que contem uma história fabulosa que surpreende o espectador a cada novo
+                episódio, para os adoradores da era medieval esta com certeza é a série correta e para aqueles que não gostam muito 
+                de espadas, cavalos e DRAGÕES podem assistir também, não vão se arrepender nem por um minuto, e acho bom the walking 
+                dead tomar cuidado, pois Game of thones vem com tudo para disputar o lugar de melhor série dos últimos anos. 
+        </div>
+    
+                             
+    
+    
+                           
+                            
+                            
                 </div>
-                
             </div>
         </div>
+        
 
         <div id="rodape"> Rodapé </div>
 
-       
-        
-    </body>
+</body>
 </html>
