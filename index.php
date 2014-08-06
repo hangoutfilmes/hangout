@@ -250,6 +250,10 @@
                     <div class="imagem1"> <a href="a_menina_sem_qualidades.php"> <img src="img/menina_qualidade.jpg"/>      <h4>A Menina sem Qualidades</h4>  </a> <p>Bom, como todo programa ou produção...</p><a href="a_menina_sem_qualidades.php"> <h5> Saiba +</h5> </a> </div>
                     <div class="imagem1"> <a href="suburbia.php"> <img src="img/suburbia.jpg"/>   <h4>Suburbia</h4>  </a> <p>Foi uma série brasileira apresentada pela rede globo...</p><a href="suburbia.php"> <h5> Saiba +</h5> </a> </div>
                     <div class="imagem1"> <a href="pedro_e_bianca.php"> <img src="img/145488.jpg"/>      <h4>Pedro e Bianca</h4>  </a><p>A série conta a história de dois irmãos gêmeos, de 15 anos...</p><a href="pedro_e_bianca.php"> <h5> Saiba +</h5> </a> </div>
+                    <div class="imagem1"> <a href="game_of_thones.php"> <img src="img/145488.jpg"/>      <h4>Game of thones </h4>  </a><p>Uma série criada por David Benioff e D. B. Weiss, esta série ...</p><a href="game_of_thones.php"> <h5> Saiba +</h5> </a> </div>
+                    <div class="imagem1"> <a href="the_walking_dead.php"> <img src="img/145488.jpg"/>      <h4>The Walking Dead </h4>  </a><p>Uma série crida por Frank Darabont, uma série pós-apocalíptica ...</p><a href="the_walking_dead.php"> <h5> Saiba +</h5> </a> </div>
+                    <div class="imagem1"> <a href="homens_sao_de_marte.php"> <img src="img/145488.jpg"/>      <h4>Os homens são de marte e é para lá que eu vou</h4>  </a><p>Um filme dirigido por Marcus Baldini, podemos dizer que é uma  ...</p><a href="homens_sao_de_marte.php"> <h5> Saiba +</h5> </a> </div>
+                     <div class="imagem1"> <a href="need_for_speed.php"> <img src="img/145488.jpg"/>      <h4>Need for speed</h4>  </a><p>O filme foi baseado em uma das franquias de maior sucesso de videogame  ...</p><a href="need_for_speed.php"> <h5> Saiba +</h5> </a> </div>
                 </div>
             </div>
         </div>
