@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width:device-width">
         <title></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="estilo.css">
-        
+
         <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
         <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
         <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
         <script type='text/javascript' src='js/menu_jquery.js'></script>
 
-        
         <script type="text/javascript"> 
         var texto = "Faça sua busca";
         
@@ -29,18 +29,18 @@
         }
         </script>
         
-        
-        
-        
         <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
         <script type="text/javascript" src="js/jquery.cycle.all.js"></script>
         
+        
 
 
-    </head>
-    <body onload="preenche();">
+        </head>
+        <body onload="preenche();">
 
- <div id="fundo_pesquisa">
+            
+            
+            <div id="fundo_pesquisa">
             
             <div id="buscar">
             <form method="get" action="" >
@@ -120,39 +120,56 @@
     </div>
         
         </div>
+
+
+        
+        
 	
-        
-       
-        
         <div id="conteudo"> 
           
             <div id="fundoverde">
                 <div id="barra">
-                    Drama
+                Novidades
                 </div>
-                
                 
                 
                 
               
-	
                 <div class="fundorosa">
-                    <div class="imagem1"> <a href="brilhanteFC.php"> <img src="img/brilhante_fc.jpg"/> <h4> Brilhante F.C.</h4> </a>  <p>Foi uma série que foi co-produzida e exibida pela...</p><a href="brilhanteFC.php"> <h5> Saiba +</h5> </a> </div>
-                     <div class="imagem1"> <a href="game_of_thones.php"> <img src="img/145488.jpg"/>      <h4>Game of thones </h4>  </a><p>Uma série criada por David Benioff e D. B. Weiss, esta série ...</p><a href="game_of_thones.php"> <h5> Saiba +</h5> </a> </div>
-                     <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 3...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/145488.jpg"/>      </a> <br /> exemplo de teste 4...<a href="contserie.php"> Saiba + </a></div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/ad120x120.jpg"/>   </a> <br /> exemplo de teste 5...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a></div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a> </div>
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 6...<a href="contserie.php"> Saiba + </a> </div>
+                    <div class="imagem_grande"> <a href=""> <img src="img/a_culpa_grande.jpg"/>  </a>
+                    
+        </div>
+                    
+        <div id="texto_grande">
+         <h3> Need for speed </h3><br/><br/>
+         <p>  </p>
+         
+            <p>O filme foi baseado em uma das franquias de maior sucesso de videogame, um filme dirigido por Scott Waugh, o filme 
+                conta a história de cinco mecânicos que disputam rachas, uma história que me parece ser meio clichê, um destes
+                mecânicos morre em uma corrida, uma morte um tanto que previsível, um outro mecânico que pilotava neste racha foi 
+                acusado pelo acidente e passa dois anos na prisão, quando ele sai da cadeia procura vingança pelo ocorrido com seu 
+                amigo.   </p>
+            <p> Um filme com ótimos efeitos especiais , muitos carros potentes, corridas fascinantes, mas infelizmente uma história 
+                previsível, já estamos muito familiarizados com este tipo de enredo, a história de um corredor que quer vingar a 
+                morte do amigo e se mostrar inocente, podemos dizer que este filme se familiariza até que muito com a saga velozes 
+                e furiosos, para o espectador que gosta de muitos efeitos especiais este pode seu um filme ideal, porem para aquele 
+                espectador que gosta de efeitos especiais e uma história inovadora pode acabar decepcionado.
+            </p>
+            
+        </div>
+    
+                             
+    
+    
+                           
+                            
+                            
                 </div>
-                
             </div>
         </div>
+        
 
         <div id="rodape"> Rodapé </div>
 
-       
-        
-    </body>
+</body>
 </html>

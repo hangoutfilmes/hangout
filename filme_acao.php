@@ -140,7 +140,7 @@
                 <div class="fundorosa">
                     <div class="imagem1"> <a href="300.php"> <img src="img/trezentos.jpg"/> <h4> 300 - A Ascensão do Império </h4> </a> <p> Depois de Oito anos a continuação de 300...</p> <a href="300.php"> <h5> Saiba +</h5></a></div>
                     <div class="imagem1"> <a href="capitao_america_2.php"> <img src="img/capitao_america2.jpg"/>  <h4> Capitão América2 </h4></a> <p> O filme não fala só sobre o capitão, mais sim sobre...</p> <a href="capitao_america_2.php"> <h5> Saiba +</h5> </a></div>
-                    <div class="imagem1"> <a href="contfilme.php"> <img src="img/th_120x120.jpg"/> </a> <br /> exemplo de teste 3...<a href="contfilme.php"> Saiba + </a> </div>
+                     <div class="imagem1"> <a href="need_for_speed.php"> <img src="img/145488.jpg"/>      <h4>Need for speed</h4>  </a><p>O filme foi baseado em uma das franquias de maior sucesso de videogame  ...</p><a href="need_for_speed.php"> <h5> Saiba +</h5> </a> </div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/145488.jpg"/>     </a> <br /> exemplo de teste 4...<a href="contfilme.php"> Saiba + </a></div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/ad120x120.jpg"/>  </a> <br /> exemplo de teste 5...<a href="contfilme.php"> Saiba + </a> </div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/th_120x120.jpg"/> </a> <br /> exemplo de teste 6...<a href="contfilme.php"> Saiba + </a></div>

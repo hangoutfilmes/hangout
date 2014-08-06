@@ -138,7 +138,7 @@
               
 	
                 <div class="fundorosa">
-                    <div class="imagem1"> <a href="dentista_mascarado.php"> <img src="img/dentista_mascarado.jpg"/>   <h4>O Dentista Mascarado</h4>  </a> <p>Foi uma das produções mais bem-sucedidas de Fernanda Young e </p><a href="dentista_mascarado.php"> <h5> Saiba +</h5> </a> </div>
+                     <div class="imagem1"> <a href="homens_sao_de_marte.php"> <img src="img/145488.jpg"/>      <h4>Os homens são de marte e é para lá que eu vou</h4>  </a><p>Um filme dirigido por Marcus Baldini, podemos dizer que é uma  ...</p><a href="homens_sao_de_marte.php"> <h5> Saiba +</h5> </a> </div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/ad120x120.jpg"/>  </a> <br /> exemplo de teste2 mais texto aqui apenas... <a href="contfilme.php"> Saiba + </a></div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/th_120x120.jpg"/> </a> <br /> exemplo de teste 3...<a href="contfilme.php"> Saiba + </a> </div>
                     <div class="imagem1"> <a href="contfilme.php"> <img src="img/145488.jpg"/>     </a> <br /> exemplo de teste 4...<a href="contfilme.php"> Saiba + </a></div>
