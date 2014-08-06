@@ -139,7 +139,7 @@
               
 	
                 <div class="fundorosa">
-                    <div class="imagem1"> <a href="contserie.php"> <img src="img/145488.jpg"/>      </a> <br /> exemplo de teste ...<a href="contserie.php"> Saiba + </a></div>
+                    <div class="imagem1"> <a href="game_of_thones.php.php"> <img src="img/145488.jpg"/>      <h4>Game of thones </h4>  </a><p>Uma série criada por David Benioff e D. B. Weiss, esta série ...</p><a href="game_of_thones.php"> <h5> Saiba +</h5> </a> </div>
                     <div class="imagem1"> <a href="contserie.php"> <img src="img/ad120x120.jpg"/>   </a> <br /> exemplo de teste2 mais texto aqui apenas... <a href="contfilme.php"> Saiba + </a></div>
                     <div class="imagem1"> <a href="contserie.php"> <img src="img/th_120x120.jpg"/>  </a> <br /> exemplo de teste 3...<a href="contserie.php"> Saiba + </a> </div>
                     <div class="imagem1"> <a href="contserie.php"> <img src="img/145488.jpg"/>      </a> <br /> exemplo de teste 4...<a href="contserie.php"> Saiba + </a></div>
